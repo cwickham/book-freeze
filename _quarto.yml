@@ -1,0 +1,8 @@
+project:
+  type: book
+
+freeze: auto
+
+book:
+  chapters: 
+    - index.qmd
